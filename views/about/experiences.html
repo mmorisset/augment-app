@@ -1,0 +1,34 @@
+<h5>EXPERIENCES PROFESSIONELLES</h5>
+  <div ng-show='experience.link != nil' class="experience link" ng-repeat="experience in experiences">
+    <a href="#/projects/{{experience.link}}">
+      <p class="title">
+        <span class="date">
+          {{experience.date}},
+        </span>
+        <span class="name">
+          {{experience.name}},
+        </span>
+      </p>
+      <p>
+        <span class="description">
+          {{experience.description}}
+        </span>
+      </p>
+    </a>
+  </div>
+
+  <div ng-show='experience.link == nil' class="experience" ng-repeat="experience in experiences">
+    <p class="title">
+      <span class="date">
+        {{experience.date}},
+      </span>
+      <span class="name">
+        {{experience.name}},
+      </span>
+    </p>
+    <p>
+      <span class="description">
+        {{experience.description}}
+      </span>
+    </p>
+  </div>

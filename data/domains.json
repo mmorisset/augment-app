@@ -1,0 +1,35 @@
+[
+  {
+    "color": "#EB5F69",
+    "key": "play",
+    "name": {
+      "en": "play",
+      "fr": "jouer"
+    }
+  },
+  {
+    "color": "#47B5B4",
+    "key": "experiment",
+    "name": {
+      "en": "experiment",
+      "fr": "expérimenter"
+    }
+  },
+  {
+    "name": "partager",
+    "color": "#FFCE03",
+    "key": "share",
+    "name": {
+      "en": "share",
+      "fr": "partager"
+    }
+  },
+  {
+    "color": "#3F8ACA",
+    "key": "communicate",
+    "name": {
+      "en": "communicate",
+      "fr": "communiquer"
+    }
+  }
+]

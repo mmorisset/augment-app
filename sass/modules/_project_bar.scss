@@ -1,0 +1,26 @@
+#project-bar {
+}
+
+#projects-bar.affix {
+  top: 70px;
+  width: 100%;
+  z-index: $zindex-navbar;
+}
+
+.affix-bottom {
+  position: absolute;
+  width: 100%;
+  z-index: $zindex-navbar;
+}
+
+#projects-bar a.active {
+  background-color: transparent !important;
+  color: black;
+  font-weight: normal;
+}
+
+#projects-bar a:hover {
+  background-color: transparent !important;
+  color: black;
+}
+

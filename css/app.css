@@ -1,0 +1,73 @@
+body {
+  font-family: "Helvetica Neue Regular", Helvetica, Arial, sans-serif !important;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+.btn.disabled {
+  background-color: #aaa;
+}
+
+.views {
+  margin-top: 70px;
+}
+
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.title, title:hover {
+  color: black;
+}
+
+ul.projects{
+  list-style-type: none;
+}
+
+hr.projects {
+  color: #e6e6e6;
+  background-color: #e2e2e2;
+  height: 2px;
+}
+
+.inset {
+  border:solid 1px #ededed;
+  -webkit-box-shadow:  0px 0px 30px 5px #f4f4f4;
+  box-shadow:  0px 0 30px 5px #f4f4f4;
+  margin-top:20px;
+  padding:30px;
+  form {
+    border:solid 1px #ededed;
+    padding:30px;
+    margin-top:20px;
+  }
+}
+
+table.table {
+  margin-bottom: 0px;
+}
+
+.table-bordered td:nth-child(1) {
+  border: 1px solid #ddd;
+  background: #444;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e6e6e6));
+  background: -moz-linear-gradient(top,  #fff,  #e6e6e6);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#eee', endColorstr='#ddd');
+  color: #444;
+}
+
+.about p {
+  color: black !important;
+}
+
+hr {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}

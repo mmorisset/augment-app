@@ -1,0 +1,74 @@
+// #main-bar .container {
+//   width: 95%;
+//   margin-left: 0px;
+//   padding-right: 0px;
+// }
+
+// #main-bar .navbar-brand {
+//   padding-top: 5px !important;
+// }
+
+#main-bar {
+  height: 70px;
+}
+
+// #main-bar .nav-item.contact {
+//   padding-top: 8px;
+// }
+
+.container > .navbar-header,
+.container > .navbar-collapse,
+.container-fluid > .navbar-header,
+.container-fluid > .navbar-collapse {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+@media (min-width: 650px) {
+  /* line 180, ../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss */
+  .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 0px;
+  }
+}
+
+#main-bar #brand {
+  height: 60px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+#main-bar .contact-icon {
+  height: 20px;
+}
+
+#main-bar .navbar-collapse {
+  text-align: center;
+}
+
+// #main-bar .navbar-brand {
+//   padding-top: 10px;
+// }
+
+// #main-bar .navbar-toggle {
+//   margin-top: 18px !important;
+//   margin-right: 20px !important;
+// }
+
+// #main-bar .nav-item {
+//   padding-top: 10px;
+// }
+
+// #main-bar .nav-item a {
+//   color: #c0c0c0 !important;
+//   text-align: center;
+//   font-size: 14px;
+//   font-weight: lighter;
+// }
+
+// #main-bar .nav-item a:hover {
+//   color: black !important;
+// }
+
+// #main-bar .nav-item a.active {
+//   color: black !important;
+// }

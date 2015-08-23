@@ -1,0 +1,45 @@
+#project-bar {
+  background-color: #f7f6f7 !important;
+  min-height: 35px;
+}
+
+#project-bar .navbar-collapse {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+#project-bar .navbar-toggle {
+  margin-right: 30px !important;
+}
+
+#project-bar .nav-pills {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#project-bar .pills {
+  border-radius: 6px;
+  height: 34px;
+  margin-top: 7px;
+}
+
+#project-bar .pills.active {
+}
+
+#project-bar a {
+  color: #aaa;
+  padding-top: 8px;
+  font-weight: lighter;
+}
+
+#project-bar a.active {
+  background-color: transparent !important;
+  color: black;
+  font-weight: normal;
+}
+
+#project-bar a:hover {
+  background-color: transparent !important;
+  color: black;
+}
+

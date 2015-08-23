@@ -1,0 +1,47 @@
+#home header {
+  position: relative;
+}
+
+#home header .background-image {
+  opacity: 0.9;
+}
+
+#home header .foreground {
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  left: 0px;
+  right: 0px;
+}
+
+#home header .foreground {
+  bottom: 40%;
+}
+
+#home header .logo {
+  width: 15%;
+}
+
+@media(max-width:767px) {
+  #home header .welcome {
+    font-size: 16px;
+  }
+}
+
+@media(min-width:768px) {
+  #home header .welcome {
+    font-size: 18px;
+  }
+}
+
+@media(min-width:992px) {
+  #home header .welcome {
+    font-size: 20px;
+  }
+}
+
+@media(min-width:1200px) {
+  #home header .welcome {
+    font-size: 24px;
+  }
+}

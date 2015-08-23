@@ -1,0 +1,44 @@
+<nav id="main-bar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <img id="brand" class="pull-left" ng-src="/images/logo.png"></img>
+      <a class="navbar-brand" href="#">Camille Courlivant</a>
+
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a ng-class="{active: isActive('/')}" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a ng-class="{active: isActive('/projects/index')}" href="#/projects/index">Works</a>
+        </li>
+        <li class="nav-item">
+          <a ng-class="{active: isActive('/about/index')}" href="#/about/index">Who am I ?</a>
+        </li>
+        <li class="nav-item contact">
+          <a href="mailto:courlivantcamille@gmail.com" target="blank">
+            <img class="contact-icon" ng-src="/images/mail.png"></img>
+          </a>
+        </li>
+        <li class="nav-item contact">
+          <a href="//www.pinterest.com/courlivantcam/" target="blank">
+            <img class="contact-icon" ng-src="/images/pinterest.png"></img>
+          </a>
+        </li>
+        <li class="nav-item contact">
+          <a href="//fr.linkedin.com/pub/camille-courlivant/66/7a5/118" target="blank">
+            <img class="contact-icon" ng-src="/images/linkedin.png"></img>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

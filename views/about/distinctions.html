@@ -1,0 +1,30 @@
+<h5>PRIX ET DISTINCTIONS</h5>
+<div ng-show='distinction.link != nil' class="distinction link" ng-repeat="distinction in distinctions">
+  <a href="#/projects/{{distinction.link}}">
+    <p>
+      <span class="date">
+        {{distinction.date}},
+      </span>
+      <span class="name">
+        {{distinction.name}},
+      </span>
+      <span class="rank">
+        {{distinction.rank}}
+      </span>
+    </p>
+  </a>
+</div>
+
+<div ng-show='distinction.link == nil' class="distinction" ng-repeat="distinction in distinctions">
+  <p>
+    <span class="date">
+      {{distinction.date}},
+    </span>
+    <span class="name">
+      {{distinction.name}},
+    </span>
+    <span class="rank">
+      {{distinction.rank}}
+    </span>
+  </p>
+</div>

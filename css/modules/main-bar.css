@@ -1,0 +1,56 @@
+$navbar-height:                    70px !default;
+
+#main-bar {
+  background-color: white !important;
+  background-image: none !important;
+}
+
+#main-bar .container {
+  width: 95%;
+  margin-left: 0px;
+  padding-right: 0px;
+}
+
+#main-bar .navbar-header {
+  /*height: 70px !important;*/
+}
+
+#main-bar .navbar-brand {
+  padding-top: 5px !important;
+}
+
+#main-bar .brand {
+  height: 60px;
+}
+
+#main-bar .nav-item.contact {
+  padding-top: 8px;
+}
+
+#main-bar .contact img {
+  height: 25px;
+}
+
+#main-bar .navbar-toggle {
+  margin-top: 18px !important;
+  margin-right: 20px !important;
+}
+
+#main-bar .nav-item {
+  padding-top: 10px;
+}
+
+#main-bar .nav-item a {
+  color: #c0c0c0 !important;
+  text-align: center;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+#main-bar .nav-item a:hover {
+  color: black !important;
+}
+
+#main-bar .nav-item a.active {
+  color: black !important;
+}

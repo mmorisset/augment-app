@@ -1,0 +1,90 @@
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<p>fdddddddddddddd</p>
+<div id="projects-bar" ng-include="'/views/projects/projects_bar.html'" ng-controller="ProjectsBarController" onload="load()" data-spy="affix"></div>
+  <div class="gridster-grid">
+    <div gridster="gridsterOpts">
+      <ul>
+        <li gridster-item ng-if="filter_by_domain(project.domain_key)" row="{{project.grid.position.row}}" col="{{project.grid.position.col}}" size-x="{{project.grid.size.x}}" size-y="{{project.grid.size.y}}" ng-repeat="project in projects" domain="{{project.domain_key}}" switch-mouse-enter>
+          <div class="item-thumbnail">
+            <img ng-src="{{project.grid.thumbnail}}"></img>
+          </div>
+          <div class="item-description">
+            <div class="description">
+              <a href="#/projects/{{project.key}}">
+                <!-- <p class="domain">- {{project.domain}} -</p> -->
+                <h3 class="title">{{project.name}}</h3>
+                <hr>
+                <p class="text">{{project.description}}</p>
+                <hr>
+              </a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<footer>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+  <p>fdddddddddddddd</p>
+</footer>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" ng-app="augmentApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Camille Courlivant</title>
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <link rel="stylesheet" href="bower_components/angular-gridster/dist/angular-gridster.min.css"/>
+  </head>
+  <body>
+    <div ng-include="'/views/layouts/main_bar.html'"></div>
+    <div ng-view class="views"></div>
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+
+    <script src="bower_components/javascript-detect-element-resize/jquery.resize.js"></script>
+    <script src="bower_components/angular-gridster/dist/angular-gridster.min.js"></script>
+
+    <script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+    <script src="bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+
+    <script src="js/app.js"></script>
+    <script src="js/controllers/projects_bar_controller.js"></script>
+    <script src="js/controllers/users_controller.js"></script>
+    <script src="js/controllers/projects_controller.js"></script>
+    <script src="js/controllers/press_articles_controller.js"></script>
+    <script src="js/controllers/contact_controller.js"></script>
+    <script src="js/controllers/about_controller.js"></script>
+
+    <script src="js/services/alerts_factory.js"></script>
+    <script src="js/services/users_factory.js"></script>
+    <script src="js/services/projects_factory.js"></script>
+    <script src="js/services/domains_factory.js"></script>
+    <script src="js/services/press_articles_factory.js"></script>
+    <script src="js/services/about_factory.js"></script>
+
+    <script src="js/directives/switch_mouse_enter.js"></script>
+    <script src="js/directives/domain_pills.js"></script>
+  </body>
+</html>

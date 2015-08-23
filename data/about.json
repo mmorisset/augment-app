@@ -1,0 +1,140 @@
+{
+  "experiences": [
+    {
+      "date": "Mars à Septembre 2014",
+      "name": "Stage au sein de Louis Vuitton Malletier, Service Mobilier",
+      "description": "Conception de mobiliers, petits objets et suivi de développement produits."
+    },
+    {
+      "date": "Février 2014",
+      "name": "Stage au sein de Sèvres, Cité de la Céramique",
+      "description": "Réalisation de modèles et moules en plâtre en vue du prototypage de la gamme d’objet «Eco-Bell».",
+      "link": "ecobell"
+    },
+    {
+      "date": "Octobre à Février 2014",
+      "name": "Partenariat avec Hermès, Département Maison",
+      "description": "Réalisation d’un projet sur le thème du souvenir, de l’enfance et du jeu.",
+      "link": "emile"
+    },
+    {
+      "date": "Octobre à Février 2014",
+      "name": "Partenariat avec Yves Delorme",
+      "description": "Réalisation d’un projet sur le thème de la célébration « Autour du drap».",
+      "link": "etreinte"
+    },
+    {
+      "date": "Mai 2013",
+      "name": "Workshop Wanted Design Challenge, New York",
+      "description": "Workshop international «Water Cycle», tenu dans le cadre de la New York Design Week."
+    },
+    {
+      "date": "Décembre à mars 2013",
+      "name": "Freelance sur le projet Siel Bleu",
+      "description": "Conception d’une série d’objets destinés à améliorer la pratique d’activités, physiques pour les personnes âgées. Projet mené en partenariat avec la Croix-Rouge française, Humanitarian Design Bureau, Extramuros et MakeSense.",
+      "link": "sielbleu"
+    },
+    {
+      "date": "Décembre 2012",
+      "name": "Workshop «Make it up», Festival de l’Obsolescence Reprogrammée",
+      "description": "Par groupe, nous avons exploité la manne d’objets obsolètes mis â notre disposition pour créer les objets communicants de demain."
+    },
+    {
+      "date": "Août 2012",
+      "name": "Freelance au sein de l'entreprise Sculptéo",
+      "description": "Création d’une gamme de coques Iphone5 en impression 3D pour l’application «3DP Case».",
+      "link": "3dpcase"
+    },
+    {
+      "date": "Janvier 2012",
+      "name": "Partenariat avec l’ENSAM, Arts et Métiers",
+      "description": "Kalenji, conception d’une chaussure de running (confidentiel)."
+    },
+    {
+      "date": "Juin 2010",
+      "name": "Stage au sein de l’entreprise de Ludovic Avenel, ébéniste et designer, Paris",
+      "description": "Création d’un gamme d’assises. Recherches formelles, croquis, maquettes, 3D."
+    }
+  ],
+  "distinctions": [
+    {
+      "date": 2014,
+      "name": "Airbus Corporate Jet Design Contest",
+      "rank": "Premier prix",
+      "link": "zenith"
+    },
+    {
+      "date": 2012,
+      "name": "Adream, Concours d’Architecture et de Design en éco et agro-matériaux",
+      "rank": "Second prix",
+      "link": "ecobell"
+    },
+    {
+      "date": 2012,
+      "name": "James Dyson Award",
+      "rank": "Lauréate Séléction Nationale",
+      "link": "soft"
+    },
+    {
+      "date": 2011,
+      "name": "Concours «Outdoor de demain»",
+      "rank": "Premier prix"
+    }
+  ],
+  "formations": [
+    {
+      "date": 2014,
+      "name": "Master 2 en Stratégies du Design",
+      "place": "ENSAAMA Olivier de Serres, Paris"
+    },
+    {
+      "date": 2013,
+      "name": "DSAA Créateur-Concepteur",
+      "place": "ENSAAMA Olivier de Serres, Paris"
+    },
+    {
+      "date": 2012,
+      "name": "Erasmus Création Industrielle",
+      "place": "VSUP Academy of Art, Achitecture and Design, Prague"
+    },
+    {
+      "date": 2011,
+      "name": "BTS design Produit",
+      "place": "ENSAAMA Olivier de Serres, Paris"
+    },
+    {
+      "date": 2007,
+      "name": "Baccalauréat économique et sociale, mention AB",
+      "place": "Lycée du Bois d’Amour, Poitiers"
+    }
+  ],
+  "skills": [
+    {
+     "name": "Anglais",
+     "description": "(courant)"
+    },
+    {
+     "name": "Maîtrise de la suite adobe CS6",
+     "description": "(Photoshop/Illustrator/Indesign)"
+    },
+    {
+     "name": "Modélisation 3D et rendu image",
+     "description": "(Rhinoceros/Keyshot/Cinema4D)"
+    },
+    {
+     "name": "Maquettage",
+     "description": "(prototypage rapide, bois, mousse polyuréthanne, métal, plastique, argile, patronage)"
+    },
+    {
+     "name": "Pratique de la photographie",
+     "description": "(argentique, sténopé)"
+    },
+    {
+     "name": "Couture",
+     "description": "(tapisserie, habillement)"
+    },
+    {
+     "name": "Equitation"
+    }
+  ]
+}

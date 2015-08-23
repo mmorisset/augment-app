@@ -1,0 +1,11 @@
+<div class="row project-header">
+  <div class="col-md-12 text-center">
+    <p class="title">
+      {{project.name | uppercase}}
+    </p>
+    <hr>
+    <p ng-repeat="paragraph in project.header" class="header">
+      {{paragraph}}
+    </p>
+  </div>
+</div>

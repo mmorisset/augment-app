@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Zénith",
+    "key": "zenith",
+    "domain_key": "experiment",
+    "description": "My fantastic zenith",
+    "template": {
+      "url": "views/projects/zenith.html"
+    },
+    "carousel": {
+      "visible": true,
+      "thumbnail": "images/carousel/zenith.png",
+      "caption": {
+        "background_color": "#0000aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 0,
+        "row": 0
+      },
+      "size": {
+        "x": 2,
+        "y": 1
+      },
+      "thumbnail": "images/grid/zenith.png"
+    }
+  },
+
+
+
+
+
+  {
+    "name": "Soft",
+    "key": "soft",
+    "domain_key": "share",
+    "description": "My fantastic soft",
+    "template": {
+      "url": "views/projects/soft.html"
+    },
+    "carousel": {
+      "visible": true,
+      "thumbnail": "images/carousel/soft.png",
+      "caption": {
+        "background_color": "#0000aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 2,
+        "row": 0
+      },
+      "size": {
+        "x": 1,
+        "y": 2
+      },
+      "thumbnail": "images/grid/soft.png",
+      "background_color": "#FBD3AC"
+    }
+  },
+
+  {
+    "name": "Sculpteo",
+    "key": "sculpteo",
+    "domain_key": "communicate",
+    "description": "My fantastic sculpteo",
+    "template": {
+      "url": "views/projects/sculpteo.html"
+    },
+    "carousel": {
+      "visible": true,
+      "thumbnail": "images/carousel/sculpteo.png",
+      "caption": {
+        "background_color": "#0000aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 0,
+        "row": 1
+      },
+      "size": {
+        "x": 1,
+        "y": 1
+      },
+      "thumbnail": "images/grid/sculpteo.png",
+      "background_color": "#FFED99"
+    }
+  },
+
+
+
+
+  {
+    "name": "Entrelas",
+    "key": "entrelas",
+    "domain_key": "Textile design",
+    "description": "My fantastic entrelas",
+    "template": {
+      "url": "views/projects/entrelas.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/entrelas.png",
+      "caption": {
+        "background_color": "#aa0000"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 2,
+        "row": 3
+      },
+      "size": {
+        "x": 1,
+        "y": 1
+      },
+      "thumbnail": "images/grid/entrelas.png",
+      "background_color": "#FBD3AC"
+    }
+  },
+
+
+
+
+  {
+    "name": "Porte-Bagages",
+    "key": "portebagages",
+    "domain_key": "communicate",
+    "description": "My fantastic portebagages",
+    "template": {
+      "url": "views/projects/portebagages.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/portebagages.png",
+      "caption": {
+        "background_color": "#aa0000"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 1,
+        "row": 1
+      },
+      "size": {
+        "x": 1,
+        "y": 1
+      },
+      "thumbnail": "images/grid/portebagages.png",
+      "background_color": "#83C2C3"
+    }
+  },
+
+
+
+
+  {
+    "name": "Sténopé",
+    "key": "stenope",
+    "domain_key": "experiment",
+    "description": "My fantastic stenope",
+    "template": {
+      "url": "views/projects/stenope.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/stenope.png",
+      "caption": {
+        "background_color": "#0000aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 0,
+        "row": 3
+      },
+      "size": {
+        "x": 1,
+        "y": 2
+      },
+      "thumbnail": "images/grid/stenope.png",
+      "background_color": "#FFED99"
+    }
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "Les Ailes d'Emile",
+    "key": "emile",
+    "domain_key": "play",
+    "description": "My fantastic project about Emile",
+    "template": {
+      "url": "views/projects/emile.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/emile.png",
+      "caption": {
+        "background_color": "#aa0000"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 0,
+        "row": 2
+      },
+      "size": {
+        "x": 2,
+        "y": 1
+      },
+      "thumbnail": "images/grid/emile.png",
+      "background_color": "#FFED99"
+    }
+  },
+
+
+
+
+  {
+    "name": "3DPCase",
+    "key": "3dpcase",
+    "domain_key": "communicate",
+    "description": "My fantastic 3dpcase",
+    "template": {
+      "url": "views/projects/3dpcase.html"
+    },
+    "carousel": {
+      "visible": true,
+      "thumbnail": "images/carousel/3dpcase.png",
+      "caption": {
+        "background_color": "#0000aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 1,
+        "row": 3
+      },
+      "size": {
+        "x": 1,
+        "y": 1
+      },
+      "thumbnail": "images/grid/3dpcase.png",
+      "background_color": "#83C2C3"
+    }
+  },
+
+
+
+
+
+
+  {
+    "name": "Eco-Bell",
+    "key": "ecobell",
+    "domain_key": "share",
+    "description": "My fantastic Eco-Bell",
+    "template": {
+      "url": "views/projects/ecobell.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/ecobell.png",
+      "caption": {
+        "background_color": "#aa00aa"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 1,
+        "row": 4
+      },
+      "size": {
+        "x": 2,
+        "y": 1
+      },
+      "thumbnail": "images/grid/ecobell.png",
+      "background_color": "#FFED99"
+    }
+  },
+
+
+
+
+
+
+  {
+    "name": "Siel Bleu",
+    "key": "sielbleu",
+    "domain_key": "share",
+    "description": "My fantastic sielbleu",
+    "template": {
+      "url": "views/projects/sielbleu.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/sielbleu.png",
+      "caption": {
+        "background_color": "#aa0000"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 1,
+        "row": 6
+      },
+      "size": {
+        "x": 2,
+        "y": 1
+      },
+      "thumbnail": "images/grid/sielbleu.png",
+      "background_color": "#FFED99"
+    }
+  },
+
+
+
+  {
+    "name": "Feed",
+    "key": "feed",
+    "domain_key": "share",
+    "description": "My fantastic feed",
+    "template": {
+      "url": "views/projects/entrelas.html"
+    },
+    "carousel": {
+      "thumbnail": "images/carousel/feed.png",
+      "caption": {
+        "background_color": "#aa0000"
+      }
+    },
+    "grid": {
+      "position": {
+        "col": 2,
+        "row": 7
+      },
+      "size": {
+        "x": 1,
+        "y": 1
+      },
+      "thumbnail": "images/grid/feed.png"
+    }
+  }
+
+
+]
